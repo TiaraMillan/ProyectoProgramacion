@@ -1,0 +1,12 @@
+h1 {
+    color:darkolivegreen;
+    font-family: sans-serif;
+    text-align: center;
+    text-shadow: 3px 4px 0px rgba(126,73,156,0.88);
+}
+
+p {
+   color: blue;
+   font-family: "Lucida Sans";
+   background-color: coral;
+} 
