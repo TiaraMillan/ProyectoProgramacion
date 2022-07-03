@@ -12,11 +12,11 @@ h1{
 }
 
 #imagen{
-    position:absolute;
     margin:0 auto;
 	top: 0px;
 	left: 90%;
     width: fit-content;
+    position: absolute;
 }
 h5{
  font-style: italic;
